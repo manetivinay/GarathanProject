@@ -3,4 +3,13 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="color_1">#3F51B5</color>  <!--    colorPrimary -->
+    <color name="color_2">#303F9F</color> <!--    colorPrimaryDark -->
+    <color name="color_3">#FF4081</color>     <!--    colorAccent -->
+    <color name="white">#FFFFFF</color>           <!--     white -->
+    <color name="color_4">#066e8a</color>   <!--     signupColor -->
+
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
 </resources>
